@@ -1,0 +1,15 @@
+.movieDetails {
+  display: flex;
+  padding-bottom: 50px;
+  border-bottom: 1px solid black;
+}
+.filmImage {
+  margin-right: 50px;
+}
+.genres:not(:last-child) {
+  margin-right: 5px;
+}
+.addInfoList {
+  padding-bottom: 30px;
+  border-bottom: 1px solid black;
+}

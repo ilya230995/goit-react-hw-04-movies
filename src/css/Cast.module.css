@@ -1,0 +1,6 @@
+.castListItem:not(:last-child) {
+  margin-bottom: 50px;
+}
+.castImage {
+  width: 150px;
+}
